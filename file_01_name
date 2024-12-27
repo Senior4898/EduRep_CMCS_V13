@@ -1,1 +1,10 @@
 file_01_text
+
+Type / Value / Representation
+clear display / 43H / C
+draw pixel / 50H / P
+draw line / 4CH / L
+draw rectangle / 72H / r
+fill rectangle / 52H / R
+draw ellipse / 65H / e
+fill ellipse / 45H / E
